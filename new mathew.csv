@@ -1,0 +1,51 @@
+PlayerName,Date,MatchType(OneDay-T20-Test),OppositionTeam,TossWin,BowlingFirst,BattingFirst,hometeam,LastMatchesPerformance,Last3MatchesPerformance,Last6MatchesPerformance,weather,pitch,Form(InOrOut),Order(BattingBowlingOrder),Performance(IT is label. For Batsman:Runs. For Bowler: Wickets)
+Angelo Mathews,13/5/2010,T20I,England,win,FALSE,TRUE,FALSE,good,great,great,clear,normal,IN,2,52
+Angelo Mathews,1/10/2012,T20I,England,loss,FALSE,TRUE,TRUE,good,great,great,rainy,dusty,in,3,32
+Angelo Mathews,27/3/2014,T20I,England,loss,FALSE,TRUE,FALSE,bad,bad,bad,foggy,damp,out,3,13
+Angelo Mathews,20/05/2014,T20I,England,loss,FALSE,TRUE,FALSE,great,average,average,sunny,hard,out,3,2
+Angelo Mathews,26/03/2016,T20I,England,win,TRUE,FALSE,FALSE,average,good,good,clear,green,out,3,43
+Angelo Mathews,5/7/2016,T20I,England,win,FALSE,TRUE,FALSE,average,average,average,rainy,normal,out,3,32
+Angelo Mathews,17/03/2016,T20I,Afghanistan,loss,TRUE,FALSE,FALSE,great,great,great,sunny,normal,IN,3,32
+Angelo Mathews,9/5/2009,T20I,Australia,loss,TRUE,FALSE,FALSE,bad,good,good,foggy,normal,IN,3,54
+Angelo Mathews,8/8/2011,T20I,Australia,win,TRUE,FALSE,FALSE,good,good,good,clear,dusty,IN,3,3
+Angelo Mathews,26/01/2013,T20I,Australia,loss,FALSE,TRUE,TRUE,average,good,good,foggy,damp,IN,3,41
+Angelo Mathews,31/03/2013,T20I,Bangladesh,loss,FALSE,TRUE,TRUE,good,good,good,rainy,green,IN,3,3
+Angelo Mathews,12/2/2014,T20I,Bangladesh,loss,FALSE,TRUE,FALSE,bad,good,good,sunny,green,IN,3,32
+Angelo Mathews,14/02/2014,T20I,Bangladesh,loss,TRUE,FALSE,FALSE,average,good,good,sunny,green,IN,3,45
+Angelo Mathews,28/2/2016,T20I,Bangladesh,loss,TRUE,FALSE,FALSE,bad,great,great,sunny,green,IN,3,65
+Angelo Mathews,9/12/2009,T20I,India,loss,FALSE,TRUE,FALSE,good,great,great,sunny,dusty,IN,3,3
+Angelo Mathews,12/12/2009,T20I,India,win,FALSE,TRUE,FALSE,great,great,great,sunny,dusty,IN,3,13
+Angelo Mathews,11/5/2010,T20I,India,loss,TRUE,FALSE,FALSE,average,great,great,sunny,damp,IN,3,87
+Angelo Mathews,7/8/2012,T20I,India,win,TRUE,FALSE,FALSE,great,great,great,sunny,damp,IN,3,65
+Angelo Mathews,1/3/2016,T20I,India,loss,FALSE,TRUE,TRUE,average,great,great,sunny,damp,IN,3,54
+Angelo Mathews,6/9/2017,T20I,India,loss,FALSE,TRUE,FALSE,great,bad,bad,sunny,damp,out,3,42
+Angelo Mathews,20/12/2017,T20I,India,win,TRUE,FALSE,TRUE,bad,bad,bad,sunny,hard,IN,3,31
+Angelo Mathews,10/1/2020,T20I,India,win,TRUE,FALSE,FALSE,average,bad,bad,sunny,hard,out,3,2
+Angelo Mathews,16/06/2009,T20I,New Zealand,win,FALSE,TRUE,FALSE,great,average,average,sunny,hard,IN,3,1
+Angelo Mathews,2/9/2009,T20I,New Zealand,loss,TRUE,FALSE,TRUE,bad,average,average,foggy,hard,out,3,4
+Angelo Mathews,4/9/2009,T20I,New Zealand,loss,TRUE,FALSE,TRUE,great,average,average,foggy,hard,IN,3,55
+Angelo Mathews,30/4/2010,T20I,New Zealand,win,FALSE,TRUE,FALSE,bad,average,average,clear,hard,IN,3,76
+Angelo Mathews,22/05/2010,T20I,New Zealand,loss,TRUE,FALSE,FALSE,good,average,average,clear,dusty,IN,3,87
+Angelo Mathews,27/09/2012,T20I,New Zealand,loss,TRUE,FALSE,TRUE,good,average,average,clear,dusty,IN,3,89
+Angelo Mathews,31/3/2014,T20I,New Zealand,loss,FALSE,TRUE,FALSE,good,average,average,clear,dusty,out,3,98
+Angelo Mathews,7/1/2016,T20I,New Zealand,win,TRUE,FALSE,FALSE,great,average,average,clear,dusty,out,3,76
+Angelo Mathews,10/1/2016,T20I,New Zealand,loss,FALSE,TRUE,FALSE,great,average,average,clear,normal,out,3,65
+Angelo Mathews,12/6/2009,T20I,Pakistan,win,FALSE,TRUE,FALSE,great,average,average,clear,normal,IN,3,43
+Angelo Mathews,21/06/2009,T20I,Pakistan,win,FALSE,TRUE,FALSE,average,average,average,clear,normal,IN,3,32
+Angelo Mathews,12/8/2009,T20I,Pakistan,loss,TRUE,FALSE,TRUE,great,bad,bad,clear,normal,IN,3,21
+Angelo Mathews,25/11/2011,T20I,Pakistan,win,FALSE,TRUE,FALSE,great,bad,bad,clear,dusty,IN,3,12
+Angelo Mathews,1/6/2012,T20I,Pakistan,win,FALSE,TRUE,TRUE,good,bad,bad,clear,hard,IN,3,23
+Angelo Mathews,3/6/2012,T20I,Pakistan,loss,TRUE,FALSE,TRUE,good,great,great,clear,hard,IN,3,3
+Angelo Mathews,4/10/2012,T20I,Pakistan,win,FALSE,TRUE,TRUE,good,great,great,clear,hard,out,3,45
+Angelo Mathews,11/12/2013,T20I,Pakistan,loss,FALSE,TRUE,FALSE,good,great,great,clear,green,out,3,67
+Angelo Mathews,30/7/2015,T20I,Pakistan,loss,TRUE,FALSE,TRUE,good,good,good,clear,green,out,3,89
+Angelo Mathews,2/8/2013,T20I,South Africa,loss,TRUE,FALSE,TRUE,bad,good,good,clear,green,out,3,9
+Angelo Mathews,4/8/2013,T20I,South Africa,loss,TRUE,FALSE,TRUE,bad,good,good,clear,green,out,3,76
+Angelo Mathews,6/8/2013,T20I,South Africa,loss,TRUE,FALSE,TRUE,bad,good,good,clear,green,out,3,54
+Angelo Mathews,22/3/2014,T20I,South Africa,win,FALSE,TRUE,FALSE,great,good,good,clear,green,IN,3,32
+Angelo Mathews,20/1/2017,T20I,South Africa,win,TRUE,FALSE,FALSE,great,good,good,rainy,damp,IN,3,12
+Angelo Mathews,22/01/2017,T20I,South Africa,loss,TRUE,FALSE,FALSE,great,good,good,rainy,damp,IN,3,34
+Angelo Mathews,3/4/2014,T20I,West Indies,win,FALSE,TRUE,FALSE,great,good,good,sunny,damp,IN,3,5
+Angelo Mathews,9/11/2015,T20I,West Indies,loss,FALSE,TRUE,TRUE,great,good,good,sunny,damp,IN,3,6
+Angelo Mathews,20/3/2016,T20I,West Indies,loss,FALSE,TRUE,TRUE,great,good,good,sunny,damp,IN,3,54
+Angelo Mathews,4/3/2020,T20I,West Indies,loss,TRUE,FALSE,FALSE,great,good,good,sunny,damp,IN,3,1
